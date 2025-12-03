@@ -22,9 +22,9 @@ Security teams rely on feature-rich data to detect abnormal behavior. This pipel
 In short, it transforms messy network telemetry into a usable foundation for ML-driven SOC automation.
 
 ## Files
-- `feature_engineering.py` — main script
-- `UNSW_NB15_training-set.csv` — input dataset
-- `output.txt` — processing logs (column discovery + final matrix shape)
+- `feature_engineering.py` - main script
+- `UNSW_NB15_training-set.csv` - input dataset
+- `output.txt` - processing logs (column discovery + final matrix shape)
 
 ## Run the Script
 `python feature_engineering.py`
