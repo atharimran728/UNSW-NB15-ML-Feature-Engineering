@@ -2,6 +2,8 @@
 
 This project contains a minimal, clean feature-engineering pipeline built on the UNSW-NB15 training dataset.  
 It converts raw network telemetry into ML-ready features suitable for intrusion detection, SOC analytics, and threat-classification experimentation.
+This repository extends the **UNSW-NB15 ML Preprocessing Pipeline** by adding a dedicated feature-engineering stage.  
+
 
 ## What This Pipeline Does
 - Loads UNSW-NB15 training-set CSV  
